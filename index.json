@@ -8,6 +8,10 @@
     {
       "game": "Legend of Zelda: Majora's Mask",
       "file": "jingles/mm.mp3"
+    },
+    {
+      "game": "New Super Mario Bros. 2",
+      "file": "jingles/nsmb2.mp3"
     }
   ]
 }
