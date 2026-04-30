@@ -14,8 +14,12 @@
       "file": "jingles/nsmb2.mp3"
     },
     {
-      "game": "Paper Mario - Sticker Star",
+      "game": "Paper Mario: Sticker Star",
       "file": "jingles/pmss.mp3"
+    },
+    {
+      "game": "Paper Mario: Color Splash",
+      "file": "jingles/pmcs.mp3"
     }
   ]
 }
