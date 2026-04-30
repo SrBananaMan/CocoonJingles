@@ -12,6 +12,10 @@
     {
       "game": "New Super Mario Bros. 2",
       "file": "jingles/nsmb2.mp3"
+    },
+    {
+      "game": "Paper Mario - Sticker Star",
+      "file": "jingles/pmss.mp3"
     }
   ]
 }
