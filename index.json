@@ -20,6 +20,10 @@
     {
       "game": "Paper Mario: Color Splash",
       "file": "jingles/pmcs.mp3"
+    },
+    {
+      "game": "The Legend of Zelda: Twilight Princess",
+      "file": "jingles/tp.mp3"
     }
   ]
 }
